@@ -1,0 +1,7 @@
+# backend/.gitignore
+venv/
+.venv/
+__pycache__/
+*.pyc
+banco.db
+.env
